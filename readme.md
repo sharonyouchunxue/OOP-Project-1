@@ -32,7 +32,7 @@ All files that you submit (`*.h` and `*.cpp`) should contain the following comme
 //   and the content was created entirely by me.
 ```
 
-**Milestone #3** can be submitted after December 3 until December 13, with a penalty of 10% for each day late. After December 13 2022, the submission process is considered closed.
+**Milestone #3** can be submitted after April 9 until April 18, with a penalty of 10% for each day late. After April 18 2022, the submission process is considered closed.
 
 - submissions received on Apr  9 2023 can receive **max 90%**;
 - submissions received on Apr 10 2023 can receive **max 80%**;
